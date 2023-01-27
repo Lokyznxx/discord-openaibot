@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "better-sqlite3": "^8.0.1",
+    "currency-system": "^2.8.6",
+    "discord-chat-gpt": "^1.0.2",
+    "discord.js": "^14.7.1",
+    "djs-template-gen": "^1.0.10",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.40",
+    "node-fetch": "^3.2.6",
+    "openai": "^3.1.0",
+    "quick.db": "^9.0.8"
+  }
+}
