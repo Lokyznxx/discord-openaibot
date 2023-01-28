@@ -14,6 +14,6 @@
     "discord.js": "^14.7.1",
     "djs-template-gen": "^1.0.10",
     "node-fetch": "^3.2.6",
-    "openai": "^3.1.0",
+    "openai": "^3.1.0"
   }
 }
